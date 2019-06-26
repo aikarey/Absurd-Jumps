@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1561267777 source:/home/aikarey/dev/abusrd oop/main.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+	<thread>
+	<Menu.h>
+	<Game.h>
+	<Splash.h>
+
+1561268185 /home/aikarey/dev/abusrd oop/include/Menu.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+
+1561266912 /home/aikarey/dev/abusrd oop/include/Game.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<string>
+	<iostream>
+	<chrono>
+	<thread>
+
+1561376499 source:/home/aikarey/dev/abusrd oop/src/Game.cpp
+	"Game.h"
+
+1561315141 source:/home/aikarey/dev/abusrd oop/src/Menu.cpp
+	"Menu.h"
+
+1561268147 source:/home/aikarey/dev/abusrd oop/src/Splash.cpp
+	"Splash.h"
+	<Game.h>
+
+1561265788 /home/aikarey/dev/abusrd oop/include/Splash.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
